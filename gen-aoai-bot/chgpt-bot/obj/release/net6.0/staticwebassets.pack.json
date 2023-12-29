@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sansri\\OneDrive - Microsoft\\MTC\\3-CodeSamples\\openai_samples\\dotnet samples\\retail-oai-bot\\chgpt-bot\\wwwroot\\default.html",
+      "PackagePath": "staticwebassets\\default.html"
+    },
+    {
+      "Id": "obj\\release\\net6.0\\staticwebassets\\msbuild.build.chgpt-bot.props",
+      "PackagePath": "build\\chgpt-bot.props"
+    },
+    {
+      "Id": "obj\\release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.chgpt-bot.props",
+      "PackagePath": "buildMultiTargeting\\chgpt-bot.props"
+    },
+    {
+      "Id": "obj\\release\\net6.0\\staticwebassets\\msbuild.buildTransitive.chgpt-bot.props",
+      "PackagePath": "buildTransitive\\chgpt-bot.props"
+    },
+    {
+      "Id": "obj\\release\\net6.0\\staticwebassets\\msbuild.chgpt-bot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

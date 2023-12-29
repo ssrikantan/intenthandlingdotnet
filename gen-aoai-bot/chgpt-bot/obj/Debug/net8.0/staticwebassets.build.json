@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "0f2KULVqlEqW3gYowAL25u2Fne1Uetjio+n4uIZW+2Q=",
+  "Source": "chgpt-bot",
+  "BasePath": "_content/chgpt-bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "chgpt-bot\\wwwroot",
+      "Source": "chgpt-bot",
+      "ContentRoot": "C:\\Users\\sansri\\code-repo-root\\az-dotnet-samples\\gen-aoai-bot\\chgpt-bot\\wwwroot\\",
+      "BasePath": "_content/chgpt-bot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sansri\\code-repo-root\\az-dotnet-samples\\gen-aoai-bot\\chgpt-bot\\wwwroot\\default.html",
+      "SourceId": "chgpt-bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sansri\\code-repo-root\\az-dotnet-samples\\gen-aoai-bot\\chgpt-bot\\wwwroot\\",
+      "BasePath": "_content/chgpt-bot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}

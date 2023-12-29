@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\chgpt-bot.props" />
+</Project>

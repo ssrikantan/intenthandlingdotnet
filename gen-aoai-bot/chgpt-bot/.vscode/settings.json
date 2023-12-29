@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/61fbc32c-9633-42bf-bfb5-2a8b3aeed21d/resourceGroups/sdp_bfsi/providers/Microsoft.Web/sites/mtccontoso",
+    "appService.deploySubpath": "."
+}

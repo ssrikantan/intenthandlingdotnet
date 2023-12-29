@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "l9iKBvq51Yx04vS0xL8eCo+yDrv8DSZzS6WHg0Ganq0=",
+  "Source": "chgpt-bot",
+  "BasePath": "_content/chgpt-bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "chgpt-bot\\wwwroot",
+      "Source": "chgpt-bot",
+      "ContentRoot": "C:\\Users\\sansri\\OneDrive - Microsoft\\MTC\\3-CodeSamples\\openai_samples\\dotnet samples\\retail-oai-bot\\chgpt-bot\\wwwroot\\",
+      "BasePath": "_content/chgpt-bot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sansri\\OneDrive - Microsoft\\MTC\\3-CodeSamples\\openai_samples\\dotnet samples\\retail-oai-bot\\chgpt-bot\\wwwroot\\default.html",
+      "SourceId": "chgpt-bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sansri\\OneDrive - Microsoft\\MTC\\3-CodeSamples\\openai_samples\\dotnet samples\\retail-oai-bot\\chgpt-bot\\wwwroot\\",
+      "BasePath": "_content/chgpt-bot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
